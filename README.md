@@ -6,6 +6,17 @@ Logika pre informatikov
 * [Poznámky z prednášok](docs/lecs)
 * [Zadania teoretických cvičení](docs/labs)
 
+Body
+----
+Prehľad o vašich bodoch si môžete pozrieť v súbore `report.md` vo vetve
+`report` vo vašich repozitároch. Priame url je (nezabudnite nahradiť ‹LOGIN› za
+vaše prihlasovacie meno):
+
+    https://github.com/FMFI-UK-1-AIN-412/lpi17-‹LOGIN›/blob/report/report.md
+
+Ak si toto pozeráte vo vašom repozitári, funguje aj tento
+[odkaz](../../blob/report/report.md).
+
 Praktické cvičenia
 ------------------
 
