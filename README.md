@@ -12,6 +12,7 @@ Praktické cvičenia
 * [Cvičenie 1](cv01) (SAT solver)
 * [Cvičenie 2](cv02) (Sudoku)
 * [Cvičenie 3](cv03) (formula)
+* [Cvičenie 4](cv04) (rodinka)
 
 Bonusy
 ------
